@@ -24,7 +24,7 @@ Connect with fellow young readers through StoryLine's vibrant online community. 
 
 ## Getting Started:
 
-1. **Download StoryLine:** Get started by downloading StoryLine from the App Store or Google Play Store.
+1. **Download StoryLine:** Get started by downloading StoryLine here: www.storyline.kids .
    
 2. **Choose Your Adventure:** Select your favorite storyline from the available options and dive into the adventure!
 
