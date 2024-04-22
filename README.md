@@ -38,6 +38,6 @@ Connect with fellow young readers through StoryLine's vibrant online community. 
 
 ## Get in Touch:
 
-Have questions or feedback? We'd love to hear from you! Contact us at support@storylineapp.com or visit our website at www.storylineapp.com for more information.
+Have questions or feedback? We'd love to hear from you! Contact us at support@storyline.kids  or visit our website at www.storyline.kids for more information.
 
 Start your adventure today with StoryLine—where imagination knows no bounds!
