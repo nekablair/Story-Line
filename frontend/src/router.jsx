@@ -6,6 +6,7 @@ import Signup from './pages/Signup'
 import Login from './pages/Login'
 import ErrorPage from './pages/ErrorPage'
 import Notfoundpage from './pages/Notfoundpage'
+import Games from './pages/Games'
 
 
 const router = createBrowserRouter([{
@@ -18,7 +19,7 @@ const router = createBrowserRouter([{
             element: <Homepage />
         },
         {
-            path:"signup/",
+            path: "signup/",
             element: <Signup />
         },
         {
@@ -26,7 +27,11 @@ const router = createBrowserRouter([{
             element: <Login />
         },
         {
-            path: "Notfoundpage",
+            path: "games/",
+            element: <Games />
+        },
+        {
+            path: "*",
             element: <Notfoundpage />
         },
     ]
